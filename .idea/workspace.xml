@@ -6,15 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="961d90ce-c1de-4158-88d3-35847b40e854" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise.eight.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercise.eight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_five.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercise_five.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercise_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_six.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercise_six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_three.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercise_three.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercise_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercsie_seven.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercsie_seven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ٍExercise_four.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/ٍExercise_four.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,34 +42,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Calculator_simple.executor": "Run",
-    "Python.Exercise.eight.executor": "Run",
-    "Python.Exercise_five.executor": "Run",
-    "Python.Exercise_one.executor": "Run",
-    "Python.Exercise_six.executor": "Run",
-    "Python.Exercise_three.executor": "Run",
-    "Python.Exercise_tow.executor": "Run",
-    "Python.Exercsie_seven.executor": "Run",
-    "Python.Getting_numbers_and_printing_numbers.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.unit_conversion.executor": "Run",
-    "Python.ٍExercise_four.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/userd/Desktop/project/pythonProject2/test.py",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Calculator_simple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise.eight.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_five.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_six.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_three.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_tow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercsie_seven.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Getting_numbers_and_printing_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unit_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ٍExercise_four.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/userd/Desktop/project/pythonProject2/test.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\userd\Desktop\project\pythonProject2\project_exercises" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Exercise_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="ENV_FILES" value="" />
