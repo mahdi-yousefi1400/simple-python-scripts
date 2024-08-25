@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="961d90ce-c1de-4158-88d3-35847b40e854" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercise_tow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_tow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_exercises/Exercise_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_exercises/Exercise_two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_priject_data/Exercise_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_priject_data/Exercise_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_priject_data/Getting_numbers_and_printing_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_priject_data/Getting_numbers_and_printing_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number_priject_data/unit_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_priject_data/unit_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +57,13 @@
     "Python.Exercsie_seven.executor": "Run",
     "Python.Getting_numbers_and_printing_numbers.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.pow_and_tow_and_three.executor": "Run",
     "Python.test.executor": "Run",
     "Python.unit_conversion.executor": "Run",
     "Python.ٍExercise_four.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/userd/Desktop/project/pythonProject2/test.py",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -72,7 +73,7 @@
       <recent name="C:\Users\userd\Desktop\project\pythonProject2\project_exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="Exercise_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="ENV_FILES" value="" />
