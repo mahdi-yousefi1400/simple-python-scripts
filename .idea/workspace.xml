@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="961d90ce-c1de-4158-88d3-35847b40e854" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_priject_data/Exercise_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_priject_data/Exercise_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_priject_data/Getting_numbers_and_printing_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_priject_data/Getting_numbers_and_printing_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number_priject_data/unit_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/number_priject_data/unit_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +49,15 @@
     "Python.Exercise_five.executor": "Run",
     "Python.Exercise_one.executor": "Run",
     "Python.Exercise_six.executor": "Run",
+    "Python.Exercise_string_one.executor": "Run",
     "Python.Exercise_three.executor": "Run",
+    "Python.Exercise_three_string.executor": "Run",
     "Python.Exercise_tow.executor": "Run",
+    "Python.Exercise_tow_string.executor": "Run",
     "Python.Exercsie_seven.executor": "Run",
     "Python.Getting_numbers_and_printing_numbers.executor": "Run",
+    "Python.Power_of_two_numbers.executor": "Run",
+    "Python.Special_characters.executor": "Run",
     "Python.main.executor": "Run",
     "Python.pow_and_tow_and_three.executor": "Run",
     "Python.test.executor": "Run",
@@ -65,7 +67,7 @@
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/userd/Desktop/project/pythonProject2/test.py",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
