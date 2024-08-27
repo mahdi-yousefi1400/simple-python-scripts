@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="961d90ce-c1de-4158-88d3-35847b40e854" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="961d90ce-c1de-4158-88d3-35847b40e854" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,40 +40,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Calculator_simple.executor": "Run",
-    "Python.Exercise.eight.executor": "Run",
-    "Python.Exercise_five.executor": "Run",
-    "Python.Exercise_one.executor": "Run",
-    "Python.Exercise_six.executor": "Run",
-    "Python.Exercise_string_one.executor": "Run",
-    "Python.Exercise_three.executor": "Run",
-    "Python.Exercise_three_string.executor": "Run",
-    "Python.Exercise_tow.executor": "Run",
-    "Python.Exercise_tow_string.executor": "Run",
-    "Python.Exercsie_seven.executor": "Run",
-    "Python.Getting_numbers_and_printing_numbers.executor": "Run",
-    "Python.Power_of_two_numbers.executor": "Run",
-    "Python.Special_characters.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pow_and_tow_and_three.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.unit_conversion.executor": "Run",
-    "Python.ٍExercise_four.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/userd/Desktop/project/pythonProject2/test.py",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Calculator_simple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise.eight.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_five.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_six.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_string_one.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_three.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_three_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_tow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise_tow_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercsie_seven.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Getting_numbers_and_printing_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Power_of_two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Special_characters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pow_and_tow_and_three.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unit_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ٍExercise_four.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/userd/Desktop/project/pythonProject2/test.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\userd\Desktop\project\pythonProject2\project_exercises" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Exercise_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="ENV_FILES" value="" />
